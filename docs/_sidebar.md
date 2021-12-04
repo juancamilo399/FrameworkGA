@@ -1,0 +1,7 @@
+* [Home](/)
+* [Computación Evolutiva](ga/)
+    * [Poblacion](ga/population.md)
+    * [Función de aptitud](ga/fitness.md)
+    * [Selección](ga/seleccion.md)
+    * [Cruce](ga/cruce.md)
+    * [Mutación](ga/mutacion.md)
